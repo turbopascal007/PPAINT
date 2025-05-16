@@ -1,0 +1,50 @@
+Power Paint version 2.3       |
+By Sander de Jong & Zef Hemel |
+http://zefnet.com             |
+http://zanderz.cjb.net        |
+==============================/
+
+Contents
+1. Introduction
+2. Shortcuts
+3. Known bugs
+4. About the authors
+5. Copyright notice
+
+1. Introduction
+PowerPaint is a DOS-based paint program, written in Turbo Pascal 6.0
+The source is 3800 lines long (1230 plus units: 696+83+895+200). Mouse, Crt and
+DOS are excluded. We wrote it because we needed a paint program for DOS to
+make drawings for games (Adlez, James) and when we made our own drawing
+program, we could make anything we wanted (PAS & CPP format).
+
+2. Shortcuts
+F1  =  About
+F2  =  Save
+F3  =  Load
+F8  =  Choose font
+F9  =  Redraw screen
+1-5 =  Select brush
++   =  Up one color
+-   =  Down one color
+z   =  Zoom
+s   =  Save as...
+l   =  Load
+Esc =  Exit
+
+
+3. Known bugs
+We expect you don't like thirty meg files, so we don't fill this
+section. But please report all bugs to ppaint@zefnet.com
+
+4. About the authors
+Zef:    Started programming at the age of 9. Since then he created
+        several programs, some games and tools. Right now he's quite
+        busy with his website ZEFNet Music Warehouse
+Sander: Started programming in 1993(9 years old) on the PC (but earlier on
+        the BBC Acorn). Now CEO, programmer, and much more of Zander Zoftware.
+
+5. Copyright notice
+PowerPaint (C) Copyright 1998-1999 Zef Hemel & Sander de Jong
+All rights reserved. For any bug-fixes: please mail us.
+If you have modified it, please keep our names in it and tell us.
